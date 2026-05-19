@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AlphaFlow Pro",
+  "description": "A high-performance quantitative proprietary trading dashboard and execution system featuring real-time equity metrics, leaderboard rankings, rules compliance, and modular interactive components.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
